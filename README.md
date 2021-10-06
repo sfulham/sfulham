@@ -29,7 +29,7 @@ If you would like to contact me, whether it be about working together on a proje
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Gitlab CI](https://img.shields.io/badge/-Gitlab%20CI-fc6d26?style=flat-square&logo=gitlab&logoColor=white)
-![cPanel](https://img.shields.io/badge/-cPanel%20CI-FF6C2C?style=flat-square&logo=cPanel&logoColor=white)
+![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cPanel&logoColor=white)
 
 ## Current Projects
 | Project | Description | Latest Release |
