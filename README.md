@@ -1,5 +1,5 @@
-## :wave: Hi there!
-### I'm sfulham
+# :wave: Hi there!
+## I'm sfulham
 I'm an Australian High School student, hobbyist software developer, Linux Expertish, and aspiring Sysadmin/Network Engineer.
 
 ## Languages
@@ -33,6 +33,7 @@ I'm an Australian High School student, hobbyist software developer, Linux Expert
 ## Contact Me
 ![Discord](https://img.shields.io/badge/discord-%40sfulham%232956-5865F2?style=flat-square&logo=discord) ![LinkedIn](https://img.shields.io/badge/linkedin-Shaun%20Fulham-0e76a8?style=flat-square&logo=linkedin)
 
+## Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sfulham&show_icons=true&theme=omni">
 </p>
