@@ -14,6 +14,6 @@ Proposed Projects:
 
 If you would like to help me with either my current or proposed projects, please message me on discord @sfulham#2956
 
-<div style="margin: auto">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sfulham&show_icons=true&theme=omni">
-</div>
+</p>
