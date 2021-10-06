@@ -43,9 +43,9 @@ If you would like to contact me, whether it be about working together on a proje
 | Operating System/Kernel | An operating system or kernel that is meant for all sorts of devices, from phones, to laptops and desktops and can allow symless intergration with other devices. |
 
 ## Contact Me
-If you would like to contact me about working on a project together, such as one of my current or proposed projects, or your own idea, please message me on Discord. If you would like to contact me about anything professional, such as a job, or any advice on what and how to learn new technologies, please contact me on LinkedIn.
+If you would like to contact me please message me on Discord.
 
-![Discord](https://img.shields.io/badge/discord-%40sfulham%232956-5865F2?style=flat-square&logo=discord) ![LinkedIn](https://img.shields.io/badge/linkedin-Shaun%20Fulham-0e76a8?style=flat-square&logo=linkedin)
+![Discord](https://img.shields.io/badge/discord-%40sfulham%232956-5865F2?style=flat-square&logo=discord)
 
 ## Stats
 <p align="center">
