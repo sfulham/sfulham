@@ -44,6 +44,7 @@ If you would like to contact me, whether it be about working together on a proje
 
 ## Contact Me
 If you would like to contact me about working on a project together, such as one of my current or proposed projects, or your own idea, please message me on Discord. If you would like to contact me about anything professional, such as a job, or any advice on what and how to learn new technologies, please contact me on LinkedIn.
+
 ![Discord](https://img.shields.io/badge/discord-%40sfulham%232956-5865F2?style=flat-square&logo=discord) ![LinkedIn](https://img.shields.io/badge/linkedin-Shaun%20Fulham-0e76a8?style=flat-square&logo=linkedin)
 
 ## Stats
