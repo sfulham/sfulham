@@ -1,6 +1,11 @@
 # :wave: Hi there!
-## I'm sfulham
+## About Me
+Hi! I'm sfulham. 
 I'm an Australian High School student, hobbyist software developer, Linux Expertish, and aspiring Sysadmin/Network Engineer.
+I've been programming since I was about 10ish (I don't remember exactly), originally learning so I could make Minecraft mods (if you look at my old repos, you can see how crap they turned out).
+I've since learned various other languages and would one day like to start my own business developing software, games and do network engineering for other businesses. 
+I still have a lot to learn before then but hopefully that will happen.
+
 
 ## Languages
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
@@ -29,6 +34,7 @@ I'm an Australian High School student, hobbyist software developer, Linux Expert
 | Project | Description |
 | ------- | ----------- |
 | Linux Distro | A linux distro that is both easy to use for beginners, but is good enough for pros to use as well and has lots of features without being bloated |
+| Operating System/Kernel | An operating system or kernel that is meant for all sorts of devices, from phones, to laptops and desktops and can allow symless intergration with other devices. |
 
 ## Contact Me
 ![Discord](https://img.shields.io/badge/discord-%40sfulham%232956-5865F2?style=flat-square&logo=discord) ![LinkedIn](https://img.shields.io/badge/linkedin-Shaun%20Fulham-0e76a8?style=flat-square&logo=linkedin)
