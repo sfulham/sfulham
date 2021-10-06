@@ -4,7 +4,7 @@ I'm an Australian high school student, hobbyist software developer, linux user b
 
 ## Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 
 ## Frameworks
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
