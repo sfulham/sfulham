@@ -1,10 +1,16 @@
 # :wave: Hi there!
 ## About Me
 Hi! I'm sfulham. 
+
 I'm an Australian High School student, hobbyist software developer, Linux Expertish, and aspiring Sysadmin/Network Engineer.
+
 I've been programming since I was about 10ish (I don't remember exactly), originally learning so I could make Minecraft mods (if you look at my old repos, you can see how crap they turned out).
+
 I've since learned various other languages and would one day like to start my own business developing software, games and do network engineering for other businesses. 
-I still have a lot to learn before then but hopefully that will happen.
+
+I still have a lot to learn before then but hopefully that will happen soon.
+
+If you would like to contact me, whether it be about working together on a project, or helpful tips about what and how to learn languages, technologies and tools, go to the [contact me](#contact-me) section below.
 
 
 ## Languages
@@ -37,6 +43,7 @@ I still have a lot to learn before then but hopefully that will happen.
 | Operating System/Kernel | An operating system or kernel that is meant for all sorts of devices, from phones, to laptops and desktops and can allow symless intergration with other devices. |
 
 ## Contact Me
+If you would like to contact me about working on a project together, such as one of my current or proposed projects, or your own idea, please message me on Discord. If you would like to contact me about anything professional, such as a job, or any advice on what and how to learn new technologies, please contact me on LinkedIn.
 ![Discord](https://img.shields.io/badge/discord-%40sfulham%232956-5865F2?style=flat-square&logo=discord) ![LinkedIn](https://img.shields.io/badge/linkedin-Shaun%20Fulham-0e76a8?style=flat-square&logo=linkedin)
 
 ## Stats
