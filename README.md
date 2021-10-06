@@ -1,16 +1,17 @@
-### Hi there 👋
+## :wave: Hi there!
+### I'm sfulham
+I'm an Australian high school student, hobbyist software developer, linux user between ameture and expert, and aspiring sysadmin/network engineer.
 
-<!--
-**sfulham/sfulham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My current projects include:
+| Project | Description | Latest Release |
+| ------- | ----------- | -------------- |
+| [Internal Engine](https://github.com/InternalStudios/InternalEngine) | A game engine, developed for educational purposes | null |
 
-Here are some ideas to get you started:
+Proposed Projects:
+| Project | Description |
+| ------- | ----------- |
+| Linux Distro | A linux distro that is both easy to use for beginners, but is good enough for pros to use as well |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you would like to help me with either my current or proposed projects, please message me on discord @sfulham#2956
+
+![sfulham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sfulham&show_icons=true&theme=radical)
