@@ -1,6 +1,6 @@
 ## :wave: Hi there!
 ### I'm sfulham
-I'm an Australian high school student, hobbyist software developer, linux user between ameture and expert, and aspiring sysadmin/network engineer.
+I'm an Australian High School student, hobbyist software developer, Linux Expertish, and aspiring Sysadmin/Network Engineer.
 
 ## Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
