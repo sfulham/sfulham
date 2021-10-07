@@ -34,7 +34,7 @@ If you would like to contact me, whether it be about working together on a proje
 ## Current Projects
 | Project | Description | Latest Release |
 | ------- | ----------- | -------------- |
-| [Internal Engine](https://github.com/InternalStudios/InternalEngine) | A game engine, developed for educational purposes | null |
+| [POS Machine](https://github.com/sfulham/POS-Machine) | Software for POS Machines that intergrates with Stripe Terminal | null |
 
 ## Proposed Projects
 | Project | Description |
