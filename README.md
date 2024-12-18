@@ -6,9 +6,7 @@ I'm an Australian University student, hobbyist software developer, Linux Experti
 
 I've been programming since I was about 10ish (I don't remember exactly), originally learning so I could make Minecraft mods (if you look at my old repos, you can see how crap they turned out).
 
-I've since learned various other languages and would one day like to start my own business developing software, games and/or do network engineering for other businesses. 
-
-I still have a lot to learn before then but hopefully that will happen soon.
+I still have a lot to learn but I'm making progress.
 
 ## Languages
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
@@ -31,8 +29,8 @@ I still have a lot to learn before then but hopefully that will happen soon.
 ## Current Projects
 | Project | Description | Latest Release |
 | ------- | ----------- | -------------- |
-| [Riverland Technology Services](https://riverlandtech.au) | IT Product and Services business | N/A |
-| Riverland Online Marketplace (Coming soon) | Site based on the Riverland Technology Services store where Riverland businesses can sell their products. | N/A |
+| OpenPOS | Extensible point of sales software written with Rust, SolidJS, React Native | Unreleased |
+
 
 ## Stats
 <p align="center">
